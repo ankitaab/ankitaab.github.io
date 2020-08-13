@@ -1,0 +1,22 @@
+.right{
+    position: relative;
+    width: 700px;
+    height: 620px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: auto;
+    bottom: 640px;
+    right: 10px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600px; 
+
+}
+  
+body{
+    overflow: hidden;
+}
+
+.bottom{
+    position: relative;
+}
